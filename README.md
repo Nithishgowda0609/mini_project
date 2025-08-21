@@ -1,4 +1,5 @@
-# new project
+# Shutter Stories
 
-basic front-end mini-project.
+Basic front-end mini-project.
 This project was created from local system.
+Created by Nithish A S
